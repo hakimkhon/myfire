@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "206278751528",
+    "project_id": "myfireb-b175a",
+    "storage_bucket": "myfireb-b175a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:206278751528:android:2f984f975989da9e934c1d",
+        "android_client_info": {
+          "package_name": "uz.shahgroup.myfire"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvr9ArOslbiVo-mcMYr7r-G-rj48XfluY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
